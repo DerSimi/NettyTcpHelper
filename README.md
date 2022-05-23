@@ -3,10 +3,10 @@ Java Network API based on netty
 
 ## Features
 - Intuitive way to set up a tcp based client server connection,
-- Easy packet system,
-- SSL functionality,
-- Epoll & nio,
-- Client sided alive sender,
+- Easy packet system
+- SSL functionality
+- Epoll & nio
+- Client sided alive sender
 - Client sided auto reconnect functionality
 - Timeout functionality for server side
 - Extended functionality of ByteBuf, added: write & read String functionality, write & read String list, write & read UUID
